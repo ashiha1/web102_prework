@@ -23,7 +23,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/j3xeQ0x' title='WEB 102 PreWork' width='500' alt='WEB 102 PreWork' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/j3xeQ0x"  ><a href="//imgur.com/a/j3xeQ0x">WEB 102 PreWork</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with LICEcap
 
