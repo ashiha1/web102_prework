@@ -23,19 +23,15 @@ The following features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/j3xeQ0x' title='WEB 102 PreWork' width='500' alt='WEB 102 PreWork' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LICEcap
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+Had a problem displaying the images for the games initially but that was because of wrong syntax.
 ## License
 
     Copyright 2023 Aly Shiha
